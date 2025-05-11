@@ -1,24 +1,23 @@
-# 🐦 Flappy Bird Demo (Python + Pygame)
+# 🐦 Flappy Bird Clone in Pygame
 
-A simple Flappy Bird clone created using Python's `pygame` library. This project demonstrates basic game development concepts such as event handling, collision detection, gravity, and surface interaction.
-
----
+A simple Flappy Bird clone built using Python and the Pygame library. Fly the bird through pipes and see how long you can last!
 
 ## 🎮 Features
 
-- Player-controlled bird that flaps on spacebar press
-- Scrolling pipes as obstacles
-- Gravity and bird movement physics
-- Collision detection between bird and pipes/floor
-- Timer-based pipe generation using custom Pygame events
-- Infinite scrolling floor
-- Clean code structure for easy understanding and modification
-
----
+- Classic Flappy Bird mechanics
+- Animated bird flapping
+- Moving pipes with random heights
+- Score tracking and high score display
+- Sound effects for flapping and collision
+- Restart functionality after game over
 
 
-## 📦 Requirements
+🕹 Controls
+Spacebar: Flap the bird upward
 
-- Python 3.x
-- pygame
+R: Restart the game after a game over
+
+🛠 Built With
+Python
+Pygame
 
