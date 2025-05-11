@@ -16,17 +16,6 @@ A simple Flappy Bird clone created using Python's `pygame` library. This project
 
 ---
 
-## 🧠 What You'll Learn
-
-This project is great for:
-
-- Understanding how game loops work
-- Working with `pygame` surfaces and rects
-- Handling timed events using `pygame.time.set_timer`
-- Detecting collisions using `colliderect`
-- Managing object movement and gravity
-
----
 
 ## 📦 Requirements
 
